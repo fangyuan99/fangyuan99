@@ -6,14 +6,5 @@
 
 ### 📊 GitHub 统计
 ![Stats](https://github-readme-stats.vercel.app/api?username=fangyuan99&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fangyuan99&layout=compact)
-
-### 🏆 奖杯
-[![trophy](https://github-profile-trophy.vercel.app/?username=fangyuan99&theme=flat&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🐍 贪吃蛇贡献图
-<img src="https://raw.githubusercontent.com/fangyuan99/fangyuan99/output/github-contribution-grid-snake.svg" />
-
-### 🔗 徽章示例
-![badge](https://img.shields.io/badge/Blog-online-blue)
-![badge](https://img.shields.io/badge/Contact-email-success)
